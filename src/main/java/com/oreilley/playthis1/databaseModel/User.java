@@ -18,4 +18,6 @@ public class User extends DbModel {
     public String getModelNamePlural(){
         return "users";
     }
+
+
 }
